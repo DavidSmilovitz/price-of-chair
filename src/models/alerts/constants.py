@@ -1,5 +1,5 @@
 __author__ = 'jslvtr'
-
+import os
 
 COLLECTION = "alerts"
 URL = os.environ.get('MAILGUN_URL')
